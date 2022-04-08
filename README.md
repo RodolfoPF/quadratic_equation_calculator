@@ -16,8 +16,8 @@ pip install quadratic_equation_calculator
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from quadratic_equation_calculator.quadratic_equation_calculator import quadratic_equation_calc
+quadratic_equation_calc.my_function()
 ```
 
 ## Author
